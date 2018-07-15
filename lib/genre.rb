@@ -37,5 +37,4 @@ class Genre
     self.songs.map {|song| song.artist}.uniq
   end
   
-  
 end  
